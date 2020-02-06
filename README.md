@@ -5,7 +5,7 @@
 ## *---------------------------------- -------------------------------------------------*
 ![Picture](https://github.com/lalik77/OpenClassRooms---JUnitUingTDD/blob/master/maven.png )
 
-## *When i clone te project from the author's rep the Jacoco works* 
+## *When i clone te project from the author's repository the Jacoco works* 
 
 ![Picture](https://github.com/lalik77/OpenClassRooms---JUnitUsingTDD/blob/master/maven3.png )
 
