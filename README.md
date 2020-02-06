@@ -1,4 +1,4 @@
-## Example of junitTest + Maven + Some Plugins 
+## *Example of junitTest + Maven + Some Plugins* 
 
 *If somenone can contribute to this project because i don't know why 
 *Jacoco plugin doesn't generate in the target  folder the report* 
